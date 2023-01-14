@@ -2,9 +2,10 @@
   "name": "scoreboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://tatychalik.github.io/scoreboard",
+  "homepage": "http://tatyanachalik.github.io/scoreboard3",
   "dependencies": {
     "create-react-app": "^5.0.1",
+    "gh-pages": "^4.0.0",
     "prop-types": "^15.8.1",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
